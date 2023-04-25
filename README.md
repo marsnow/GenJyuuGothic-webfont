@@ -10,6 +10,9 @@
 - ExtraLight : 100
 - Light      : 200
 - Normal     : 300
+- Regular    : 400
+- Medium     : 500
+- Bold       : 700
 - Heavy      : 900
 
 ### 已轉換類型
